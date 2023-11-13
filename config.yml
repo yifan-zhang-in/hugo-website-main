@@ -57,7 +57,15 @@ consequat."
           imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Prof. Name
+          imageTitle: Yifan Zhang
+
+          sections:
+        - title: Scholarship
+          content: |
+              Your scholarship information here.
+        - title: Research Interest
+          content: |
+              Your research interest information here.
           buttons:
             - name: Papers
               url: papers/
