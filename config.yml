@@ -1,5 +1,5 @@
 baseURL: "https://yifan-zhang-in.github.io/hugo-website-main/" 
-title: Prof. Name
+title: Yifan Zhang
 paginate: 20
 theme: PaperMod
 
@@ -50,8 +50,8 @@ consequat."
     math: true
     profileMode:
           enabled: true
-          title: Prof. Namely Name
-          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+          title: Yifan Zhang
+          subtitle: "I am a DPhil (PhD) candidate in Economics at the University of Oxford, funded by the Departmental Doctoral Bursary and the David Walton Distinguished Doctoral Scholarship. My research interests span macroeconomics and macrofinance, with a specific focus on expectation formation and bounded rationality."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
