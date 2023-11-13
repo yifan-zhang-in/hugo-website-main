@@ -53,8 +53,8 @@ consequat."
           title: Yifan Zhang
           subtitle: "I am a DPhil (PhD) candidate in Economics at the University of Oxford, funded by the Departmental Doctoral Bursary and the David Walton Distinguished Doctoral Scholarship. My research interests span macroeconomics and macrofinance, with a specific focus on expectation formation and bounded rationality."
           imageUrl: "Yifan_Zhang (2).JPG"
-          imageWidth: 348.49
-          imageHeight: 232.41
+          imageWidth: 160
+          imageHeight: 160
           imageTitle: Prof. Name
           buttons:
             - name: Papers
