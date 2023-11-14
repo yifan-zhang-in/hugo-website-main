@@ -60,21 +60,23 @@ consequat."
           imageTitle: Yifan Zhang
 
           buttons:
-            - name: Papers
+            - name: Research
               url: papers/
-            - name: Courses
+            - name: Teaching
               url: courses/
-            - name: Data
-              url: data/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
+            - name: CV
+              url: cv.pdf
+            # - name: Data
+            #   url: data/
+            # - name: Newsletter
+            #   url: https://pmichaillat.substack.com
+            # - name: Tags
+            #   url: tags/
+            # - name: Archive
+            #   url: archive/
     socialIcons:
-        - name: CV
-          url: cv.pdf
+        # - name: CV
+        #   url: cv.pdf
         - name: Email
           url: mailto:yifan.zhang@economics.ox.ac.uk
         # - name: Location
