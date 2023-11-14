@@ -25,9 +25,8 @@ menu:
           # weight: 4
 
 params:
-    description: "I am a Professor of Subject at the University of Place. My research covers various topics.
-consequat."
-    author: Name
+    description: "I am a DPhil (PhD) candidate in Economics at the University of Oxford, funded by the Departmental Doctoral Bursary and the David Walton Distinguished Doctoral Scholarship. "
+    author: Yifan Zhang
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -101,7 +100,7 @@ consequat."
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Prof. Name"
+      text: "Yifan Zhang"
       icon: favicon.ico
       iconHeight: 18
 
